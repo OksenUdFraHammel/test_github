@@ -1,6 +1,6 @@
 # Python program to check if a given graph is Eulerian or not 
 #Complexity : O(V+E) 
-   
+
 from collections import defaultdict 
    
 #This class represents a undirected graph using adjacency list representation 
